@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.wrapper {
+  padding: 1em;
+  border: 1px solid #c4bbbb;
+  border-radius: 3px;
+}
+
+.headTitle {
+  padding: .1em;
+  font-size: 2.5em;
+  color: #fefdfc;
+  background-color: #032444;
+}
+
+.errorMessage {
+  color: #fe1221
+}
